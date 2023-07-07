@@ -5,7 +5,7 @@ const person = {
   age: 80,
 };
 const team={
-	name="John";
+	name:"John";
 	
 };
 const team1= ["John", "Bob", "Alice", "Poppy"];
