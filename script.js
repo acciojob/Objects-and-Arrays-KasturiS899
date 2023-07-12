@@ -9,10 +9,10 @@ team[3]='dhoni';
 
 const team1=[]
 for(let i=0;i<players.length;i++){
-	team1.push(players[i])
+	team1.push(players[3])
 }
 const cap1= person
-cap1.name-"Accio Job";
+cap1.name="Accio Job";
 
 
 	
