@@ -9,10 +9,12 @@ team[3]='dhoni';
 
 const team1=[]
 for(let i=0;i<players.length;i++){
-	team1.push(players[3])
+	team1.push(players[i])
 }
+console.log
 const cap1= person
-cap1.name="Accio Job";
+cap1.name="Accio Job",
+cap1.age=25,
 
 
 	
