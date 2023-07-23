@@ -2,7 +2,7 @@ const players = ["John", "Bob", "Alice", "Poppy"];
 
 const person = {
   name: "John Doe",
-  age: 80,
+  age: 80
 };
 const team= players;
 team[3]='dhoni';
